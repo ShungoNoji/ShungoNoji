@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ShungoNoji&repo=convoychat" />
 </a>
+
+<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=yiskw713&count_private=true&show_icons=true&theme=highcontrast" />
+<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=yiskw713&hide=jupyter%20notebook&layout=compact&theme=highcontrast" />
