@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=ShungoNoji&count_private=true&show_icons=true&theme=highcontrast" />
-<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=ShungoNoji&hide=jupyter%20notebook&layout=compact&theme=highcontrast" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShungoNoji)](https://github.com/anuraghazra/github-readme-stats)
